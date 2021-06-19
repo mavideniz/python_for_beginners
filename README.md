@@ -17,7 +17,7 @@ Program content:
  - Data Types
  - Arithmetic Operators
  - Type Conversions
- - Positioning and Slicing
+ - Indexing and Slicing
  - If/Else Conditions
  - List, Dictionary, Set, Tuple
 

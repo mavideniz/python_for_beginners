@@ -3,6 +3,8 @@ Introduction to Python Course
 
 English version is below. ⬇️
 
+---
+
 Tarafımca verilmiş "Python'a Giriş" konulu Youtube yayınlarında kullanılan içeriklerin kaynak kodudur. Eğitimin amacı, Python dilini **yeni** öğrenmeye başlamış kişilere yardımcı olmaktır. Bu yüzden program içeriği temel düzeyden başlamaktadır.
 
 Repository'de bulunan .ipynb uzantılı dosyaları çalıştırmak için herhangi bir derleyiciye ihtiyacınız yok, [Google Colab](https://colab.research.google.com/) yardımı ile tarayıcı üzerinden çalıştırabilirsiniz.
